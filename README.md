@@ -1,6 +1,6 @@
 <!-- Encabezado -->
 <p align="center">
-  <img src="https://via.placeholder.com/500x150" alt="Logo de la App de Contabilidad SynthWave">
+  <img src="https://media.discordapp.net/attachments/1128434193286840371/1197033924816277574/Sin_titulo-2.jpg?ex=662889b7&is=661614b7&hm=dd283d9627a7e69401eff0adef46303609ff69f56b067f1045de2064340558b8&=&format=webp" alt="Logo de la App de Contabilidad SynthWave">
 </p>
 
 <!-- Título -->
