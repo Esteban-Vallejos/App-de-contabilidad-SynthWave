@@ -33,7 +33,7 @@ La App de Contabilidad SynthWave está diseñada para emprendedores y pequeñas 
 Antes de ejecutar esta aplicación, asegúrate de tener instalados los siguientes requisitos:
 
 - **Python**: Descarga e instala la última versión de [Python](https://www.python.org/).
-- **Dependencias de la aplicación**: Instala todas las dependencias necesarias. Puedes encontrar una lista detallada en el archivo `requirements.txt`.
+- **Dependencias de la aplicación**: Instala todas las dependencias necesarias. Puedes encontrar una lista detallada en el archivo [`requirements.txt`](https://github.com/SynthWaveco/App-de-contabilidad-SynthWave/blob/main/requirements.txt).
 - **Entorno virtual**: Se recomienda utilizar un entorno virtual para tu proyecto de Python.
 - **IDE o editor de texto**: Utiliza tu IDE favorito o un editor de texto para escribir y ejecutar el código Python.
 
