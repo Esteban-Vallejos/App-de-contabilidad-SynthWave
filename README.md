@@ -46,12 +46,12 @@ Antes de ejecutar esta aplicación, asegúrate de tener instalados los siguiente
 <!-- Únete a nuestra comunidad -->
 ## Únete a nuestra comunidad 🌟
 
-¡Nos encantaría que te unieras a nuestra comunidad en Discord! Aquí puedes discutir la aplicación, hacer preguntas, sugerir mejoras y conectarte con otros usuarios. [Únete a nuestro servidor de Discord](https://discord.gg/tu-servidor-de-discord).
+¡Nos encantaría que te unieras a nuestra comunidad en Discord! Aquí puedes discutir la aplicación, hacer preguntas, sugerir mejoras y conectarte con otros usuarios. [Únete a nuestro servidor de Discord](https://discord.com/invite/ms7thCcepA).
 
 <!-- Página web y redes sociales -->
 ## Página web y redes sociales 🌐
 
-Para obtener más información sobre la App de Contabilidad SynthWave, visita nuestra [página web](https://www.tu-pagina-web.com/).
+Para obtener más información sobre la App de Contabilidad SynthWave, visita nuestra [página web](https://synthwaveco.github.io/SysnthWave/).
 
 También nos puedes seguir en nuestras redes sociales para estar al tanto de las últimas actualizaciones y noticias:
 - Twitter: [Tu Twitter](https://twitter.com/tu-twitter)
